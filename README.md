@@ -1,4 +1,4 @@
-<img align="centre" src="https://cdn-wordpress-info.futurelearn.com/info/wp-content/uploads/into-codin-606x303.jpg"/>
+<img align="centre" src="Untitled-1.png"/>
 ### Hi there 👋I'm Muhammad Usman!
 
 ## MY GIT STATS
