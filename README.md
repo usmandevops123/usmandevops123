@@ -1,8 +1,8 @@
 <img align="centre" src="Untitled-1.png"/>
 ### Hi there 👋I'm Muhammad Usman! 
 
-Undergrad student of BS-CS NEDUET. Resourceful developer, very familiar with CSS
-&JS. Enjoy problem solving and creating helpful, reliable user experiences for online tech
+
+Undergrad student of BS-CS NEDUET. Resourceful developer, Enjoy problem solving and creating helpful, reliable user experiences for online tech
 companies.
 
 #### Unusual Stuff😄
