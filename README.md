@@ -1,6 +1,9 @@
 <img align="centre" src="Untitled-1.png"/>
 ### Hi there 👋I'm Muhammad Usman! 
 
+Undergrad student of BS-CS NEDUET. Resourceful developer, very familiar with CSS
+&JS. Enjoy problem solving and creating helpful, reliable user experiences for online tech
+companies.
 
 #### Unusual Stuff😄
 - 🌱 I’m currently learning React-JS
@@ -11,7 +14,7 @@
 
 - :paperclip: HTML / CSS / SCSS
 - :paperclip: JavaScript / React / jquery /Bootstrap.
-- :paperclip: Knowledge of Linux, Docker and Kubernetes.Wordpress.
+- :paperclip: Knowledge of Linux, Docker and Kubernetes.
 - :paperclip: Knowledge of front end Wordpress development.
 
 ## MY GIT STATS
