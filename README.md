@@ -24,7 +24,9 @@ companies.
 - :paperclip: Knowledge of front end Wordpress development.
 
 ## MY GIT STATS
-<img src="https://github-readme-stats.vercel.app/api?username=usmandevops123&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2">
+|<img src="https://github-readme-stats.vercel.app/api?username=usmandevops123&&show_icons=true&&hide_border=false&&theme=radical&&count_private=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=usmandevops123&&theme=radical&&hide_border=false&&show_icons=true"/>|
+|---|---|
+
 
 ## MY TOP LANGUAGES
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usmandevops123&theme=radical&title_color=8E2DE2&text_color=fff)
