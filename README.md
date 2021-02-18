@@ -1,5 +1,5 @@
 <img align="centre" src="Untitled-1.png"/>
-### Hi there 👋I'm Muhammad Usman!  
+### Hi there 👋I'm Muhammad Usman!  <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 #### It's good to see you here 😄
 
