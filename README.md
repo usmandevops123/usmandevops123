@@ -3,7 +3,8 @@
 
 
 #### It's good to see you here 😄 
-[![linkedin badge](https://img.shields.io/badge/muhammad-usman-6a905318b?style=flat&logo=linkedin)](https://www.linkedin.com/in/muhammad-usman-6a905318b/)
+[![linkedin badge](https://img.shields.io/badge/muhammad-usman-6a905318b?style=flat&logo=linkedin)](https://www.linkedin.com/in/muhammad-usman-6a905318b/) 
+[![Gmail Badge](https://img.shields.io/badge/usman.subhan235@gmail.com-30302f?style=flat&logo=Gmail&logoColor=red)](mailto:usman.subhan235@gmail.com)
 
 
 
