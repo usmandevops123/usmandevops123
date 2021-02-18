@@ -2,7 +2,9 @@
 <h1>Hey there, I'm <a  href="https://https://github.com/usmandevops123">Usman </a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 
-#### It's good to see you here 😄
+#### It's good to see you here 😄 
+[![linkedin badge](https://img.shields.io/badge/muhammad-usman-6a905318b?style=flat&logo=linkedin)](https://www.linkedin.com/in/muhammad-usman-6a905318b/)
+
 
 
 Undergrad student of BS-CS NEDUET. Resourceful developer, Enjoy problem solving and creating helpful, reliable user experiences for online tech
