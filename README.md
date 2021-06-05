@@ -12,14 +12,14 @@ Undergrad student of BS-CS NEDUET. Resourceful developer, Enjoy problem solving 
 companies.
 
 #### Unusual Stuff😄
-- 🌱 I’m currently learning React-JS
+- 🌱 I’m currently learning Node-JS
 - 💬 Ask me anything about JavaScript stuff
 - 📫 How to reach me: usman.subhan235@gmail.com 
 
 #### Stack :blue_book:
 
 - :paperclip: HTML / CSS / SCSS
-- :paperclip: JavaScript / React / jquery /Bootstrap.
+- :paperclip: JavaScript / React / React-native / Redux.
 - :paperclip: Knowledge of Linux, Docker and Kubernetes.
 - :paperclip: Knowledge of front end Wordpress development.
 
