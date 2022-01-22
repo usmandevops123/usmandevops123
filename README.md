@@ -12,7 +12,7 @@ Undergrad student of BS-CS NEDUET. Resourceful developer, Enjoy problem solving 
 companies.
 
 #### Unusual Stuff😄
-- 🌱 I’m currently learning Node-JS
+
 - 💬 Ask me anything about JavaScript stuff
 - 📫 How to reach me: usman.subhan235@gmail.com 
 
@@ -21,7 +21,7 @@ companies.
 - :paperclip: HTML / CSS / SCSS
 - :paperclip: JavaScript / React / React-native / Redux.
 - :paperclip: Knowledge of Linux, Docker and Kubernetes.
-- :paperclip: Knowledge of front end Wordpress development.
+
 
 ## MY GIT STATS
 |<img src="https://github-readme-stats.vercel.app/api?username=usmandevops123&&show_icons=true&&hide_border=false&&theme=radical&&count_private=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=usmandevops123&&theme=radical&&hide_border=false&&show_icons=true"/>|
