@@ -8,7 +8,7 @@
 
 
 
-Undergrad student of BS-CS NEDUET. Resourceful developer, Enjoy problem solving and creating helpful, reliable user experiences for online tech
+Graduate student of BS-CS NEDUET. Resourceful developer, Enjoy problem solving and creating helpful, reliable user experiences for online tech
 companies.
 
 #### Unusual Stuff😄
